@@ -91,7 +91,7 @@ DATABASES = {
         'NAME': 'rencore',
         'USER': 'dauren',
         'PASSWORD': 'd8365382',
-        'HOST': 'connect.bestprofi.com',
+        'HOST': '10.10.2.10',
         'PORT': '5432',
     }
 }
