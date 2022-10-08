@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
      'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'rencore',
+        'NAME': 'rencore_test',
         'USER': 'dauren',
         'PASSWORD': 'd8365382',
         'HOST': 'connect.bestprofi.com',
